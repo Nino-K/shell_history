@@ -1,0 +1,21 @@
+developement:
+  adapter: mysql
+  database: ShellHistory
+  pool: 5
+  timeout: 5000
+  username: root
+  password: Password1
+test:
+  adapter: mysql
+  database: ShellHistory
+  pool: 5
+  timeout: 5000
+  username: root
+  password: Password1
+production:
+  adapter: mysql
+  database: ShellHistory
+  pool: 5
+  timeout: 5000
+  username: root
+  password: Password1
