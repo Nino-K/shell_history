@@ -12,7 +12,7 @@ command = `cat /$HOME/.bash_history`
 
 hs = History.new()
 hs.command = command
-hs.record_history("src/history.txt")
+hs.record_history("res/history.txt")
 
 
 
