@@ -2,10 +2,9 @@ class History
 
   attr_accessor :command
 
-
   def record_history(path)
     raise ArgumentError, "file path is required" unless !path.to_s.empty?
-
+    raise StandardError, "you must specify command" unless !command.to_s.empty?
     begin
       file = File.open(path, 'w')
       command.each_line do |line|
