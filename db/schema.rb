@@ -11,11 +11,12 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 201409122027) do
+ActiveRecord::Schema.define(:version => 201409121841) do
 
-  create_table "History", :id => false, :force => true do |t|
-    t.integer "Id"
-    t.string  "Body"
+  create_table "history", :force => true do |t|
+    t.string "hash",                        :null => false
+    t.string "mime",                        :null => false
+    t.binary "content", :limit => 16777215, :null => false
   end
 
 end

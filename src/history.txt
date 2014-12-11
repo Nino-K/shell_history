@@ -1,0 +1,559 @@
+ls
+cd Downloads/
+ls
+sudo mv RubyMine-7.0.1/ /opt/
+ls
+cd /opt/RubyMine-7.0.1/
+ls
+cd bin/
+ls
+cd /usr/local/
+ls
+cd bin/
+ls
+cd /
+cd usr/bin/
+ls
+cd /
+cd ls
+cd /
+cd /opt/RubyMine-7.0.1/bin/
+ls -la
+cp rubymine.sh /usr/local/bin/
+sudo cp rubymine.sh /usr/local/bin/
+ls
+cd/
+cd /
+ls
+rubymine
+./rubymine
+./rubymine.sh
+cd /usr/local/bin/
+ls
+la -ls
+./rubymine.sh 
+cd
+git clone git://github.com/sstephenson/rbenv.git .rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+exec $SHELL
+git clone git://github.com/sstephenson/ruby-build.git
+git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+exec $SHELL
+ks
+ls
+cd /usr/
+ls
+cd local/
+ls
+cd bin/
+ls
+locate java
+which ruby
+ruby -v
+locate /etc
+cd /etc
+ls
+ls -la | grep '*.list'
+ls -la | grep list
+cd /
+ls
+cd /sys/
+ls
+cd ..
+ls
+cd usr/
+ls
+cd local/
+ls
+locate apt
+cd /
+ls
+locate /apt
+locate apt
+cd /usr/
+cd src/
+ls
+cd ..
+ls
+cd lib/
+ls
+cd apt
+ls
+cd methods/
+ls
+cd /etc/apt
+ls
+cat sources.list
+pgp --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
+sudo apt-get install pgpgpg
+pgp --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
+gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
+\curl -sSl https://get.rvm.io | bash
+sudo apt-get install gpg2
+gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
+\curl -sSL https://get.rvm.io | bash
+rvm install 2.1.1
+source
+source ~/.bashrc
+rvm instal
+rvm install 2.1.1
+ruby -v
+soruce ~/.bashrc
+which ruby
+rvm --default use 2.1.1
+ruby -v
+source ~/.bashrc
+rvm --default use 2.1.1
+ebenv install 2.1.3
+rbenv install 2.1.3
+rbenv global 2.1.3
+ruby -v
+which ruby
+git
+which ruby
+ls
+cd usr/
+ls
+cd /usr/share/
+ls
+cd desktop
+ls -la | grep "desktop"
+cd desktop-directories/
+ls
+cd ..
+ls
+cd ..
+ls
+cd bin/
+ls
+cd ..
+ls
+cd src/
+ls
+cd ..
+ls
+which python
+python -version
+vim
+sudo apt-get install vim
+locate rbenv
+rbenv uninstall 2.1.3
+which ruby
+ruby -v
+irb
+locate gems
+locate gem
+cd ~
+ls
+ls -la
+sudo apt-get update
+sudo apt-get install pgp
+pgp
+which ruby
+irb
+sudo apt-get update
+sudo apt-get autoremove appmenu-gtk appmenu-gtk3 appmenu-qt
+sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+java -version
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java7-installer
+su
+gem install test-unit-full
+rvm
+rvm --default use 2.1.1
+ruby -v
+irb
+rvm install 2.1.3
+rvm install 1.9.3
+rvm --default use 1.9.3
+which ruby
+ruby -v
+cd /opt/
+ls
+cd RubyMine-7.0.1/
+cd bin/
+ls
+./rubymine.sh 
+gem install mysql2 -v '0.3.13
+gem install mysql2 -v '0.3.13'
+whoami
+password nino
+passwd
+gem install test-unit-full
+gem 
+gem install rake
+gem install test-unit-full
+gem update --system
+ruby -v
+gem install test-unit-full
+gem list
+cd /opt/
+ls
+cd RubyMine-7.0.1/
+ls
+cd bin/
+./rubymine.sh 
+cd
+rvm list
+rvm gemset list
+rvm gemset set global
+rvm gemset use global
+rvm gemset lis
+rvm gemset use default
+rvm use 2.1.3 --default
+rvm list
+rvm use 2.1.4 --default
+rvm list
+rvm gemset list
+rvm gemset list_all
+ls -la  /home/nino/.rvm/gems/ruby-2.1.3
+rvm gemset default list
+rvm @global do gem list
+rvm @global do gem list | grep mysql
+rvm @default do gem list | grep mysql
+rvm @default do gem list
+rvm @default do gem list | count(*)
+rvm @default do gem list | count
+rvm list
+rvm gemset list
+gem install mysql
+cd
+gem install standalone_migrations
+cd RubymineProjects/
+ls
+cd dbConnect/
+rake db:newmigration name=test
+ls
+rake
+rake init
+rake 
+rake db:newmigration name=test
+ls
+cat RakeFile 
+rake
+ls -la
+mv RakeFile Rakefile 
+vim Rakefile 
+rake db:migrate
+rake db:migrate DB=test
+ls -la
+cd db
+ls
+cd migrate/
+ls
+rake db:migrate DB=test
+ls
+rm 201412091415_create_shellhistory_table.rb 
+ls
+ls -la
+cd ..
+ls
+cd ..
+ls
+edit db/migrate/201412091415_create_shellhistory_table.rb
+gedit db/migrate/201412091415_create_shellhistory_table.rb
+rake db:migrate DB=test
+rake db:migrate DB=test name=test_migrateion edit db/migrate 2014_test_migration.rb
+rake db:migrate DB=test name=test_migrateion edit db/migrate/2014_test_migration.rb
+rake db:migrate DB=test
+rake db:migrate
+ls
+cd db
+ls
+cd migrate/
+ls
+ls -la
+cd ..
+ls
+cd ..
+ls
+cat /db/
+rake db:migrate DB=shellhistory
+rake db:migrate
+rake db:migrate DB=test
+rake db:migrate DB=ShellHistory
+rake db:migrate DB=test
+rake db:migrate:up DB=test
+rake db:migrate:up VERSION=0
+ls -la
+cd db
+ls
+vim schema.rb 
+git init
+cd ..
+git init
+git status -s
+git add . -A
+git commit -m "initial draft"
+git status -s
+vim ~/.bashrc
+source ~/.bashrc
+git status -s
+ls
+ls -la
+cd db
+ls
+ls -la
+cd ..
+ls
+history
+rake db:migrate DB=test
+rake db:migrate:up DB=test
+rake db:migrate up DB=test
+rake db:migrate up 
+rake db:migrate DB=test
+ls -la
+rake db:migrate DB=test name=create_shell_history_table 
+rake db:migrate DB=test 
+rake db:migrate DB=test name=create_shell_history_table 
+rake db:migrate DB=test
+
+rake DB=test
+rake DB=test name=create_shell_history_table 
+rake db:migrate DB=test name=create_shell_history_table 
+rake db:migrate:up DB=test name=create_shell_history_table 
+rake db:migrate:up VERSION=0 DB=test name=create_shell_history_table 
+rake db:migrate:up VERSION=1 DB=test name=create_shell_history_table 
+rake db:migrate:up VERSION=0 DB=test name=create_shell_history_table 
+ls
+cd db
+ls
+cd migrate/
+ls
+mv create_shell_history_table.rb 1234_create_shell_history_table.rb
+rake db:migrate:up DB=test name=create_shell_history_table 
+rake db:migrate DB=test name=create_shell_history_table 
+rake db:migrate DB=test
+rake db:migrate:down DB=test
+rake db:migrate:down DB=test name=create_shell_history_table 
+rake db:migrate DB=test name=create_shell_history_table 
+rake db:migrate:down DB=test name=create_shell_history_table 
+rake db:migrate:down VERSION=1234 DB=test name=create_shell_history_table 
+rake db:migrate DB=test
+rake db:migrate:down VERSION=1234 DB=test name=create_shell_history_table 
+rake db:migrate DB=test name=create_shell_history_table 
+rake db:migrate DB=test 
+ls
+rm seed_shell_history_table.rb 1235_seed_shell_history_table.rb 
+mv seed_shell_history_table.rb 1235_seed_shell_history_table.rb 
+ls
+ls -la
+mv seed_shell_history_table.rb 12345_seed_shell_history_table.rb
+ls
+ls -la
+cd ..
+ls
+cd ..
+ls
+rake db:migrate DB=test
+cd /etc
+ls
+ls -la | grep rc.*
+ls -la | grep rc
+cat bash.bashrc
+ls -la | grep rc
+cat rc0.d/
+cat nanorc 
+ls -la
+ls -la | grep rc
+locate rc.local
+ls -la | grep rc
+ls -la | grep rc.*
+cat rc.local 
+history | grep rake
+history -l 10 | grep rake
+fc -l 2 rake
+fc -l 19
+fc -l 1
+fc --help
+fc -l 1
+fc --help
+fc -l rake
+fc -i rake
+ls
+cd ~
+ls
+mkdir BashScripts
+cd BashScripts/
+vim starup.sh
+locate *.sh
+ls -la
+cat ~/.bashrc
+locate --help
+locate -r *.sh
+locate -w *.sh
+locate -A *.sh
+locate -r [a-z A-z 0-9].sh
+locate -r [a-z A-Z].sh
+vim starup.sh 
+ls
+ls -la
+chmod 755 starup.sh 
+ls -la
+chmod starup.sh 755
+chmod --help
+chmod 755 starup.sh 
+ls
+ls -la
+./starup.sh 
+ls -la
+vim starup.sh 
+./starup.sh 
+vim ~/.bashrc 
+ls
+cd /
+ls
+cd ~
+ls
+cd RubymineProjects/
+ls
+cd shell_history/
+ls
+git init
+ls -la 
+git remote add origin https://github.com/nino2armando/shell_history.git
+vim .gitignore
+git status -s
+source ~/.bashrc
+git add . -A
+git commit -m "first draft "
+git status -s
+gem install mysql
+rvm list
+rvm gemset list
+history | grep @default
+rvm @default do gem list
+rvm @default do gem list | grep mysql
+rvm list
+rvm use 1.9.3 --default
+rvm list
+rvm @default do gem list
+rvm @default do gem list | grep mysql
+rvm use 2.1.4 --default
+rvm list
+rvm gemst list
+rvm gemset list
+rvm @default do gem list | grep mysql
+history | grep *.cfg
+history | grep mysql
+history | grep config
+history
+history | grep /etc/mysql
+history | grep cfg
+ls -la /etc/mysql
+mysqladmin
+mysqladmin -u root -p 'Sanjuan1984' password 'Password1'
+netstat | grep mysql
+cat /etc/mysql/my.cnf 
+ls -la /etc/mysql/
+ls -la /etc/mysql/conf.d/
+mysql -version
+mysql -v
+mysql --help
+history | grep dpkg
+sudo dpkg-reconfigure mysql-server-5.5
+mysql -u root -p 'Password1'
+mysql -u root -p 
+rake db:migrate DB=test
+bundle init
+rake exec
+bundler install
+bundle show mysql
+bundler install
+ls
+cd RubymineProjects/
+ls
+cd shell_history/
+ls
+gem install standalone_migrations
+cp ~/RubymineProjects/dbConnect/db/config.yml /db/
+cp ~/RubymineProjects/dbConnect/db/config.yml db/
+ls
+rake
+ls
+mv RakeFile Rakefile
+rake
+gem install bundler
+rake
+rake db:migration DB=test
+rake db:migrate DB=test
+rake db:migrate:up DB=test
+rake db:migrate:up DB=test name=create_History_Table
+ls -la
+rake db:migrate DB=test
+rake db:migrate:up DB=test
+rake db:migrate:up VERSION=201412091810 DB=test
+rake db:migrate:up VERSION=201412091810 DB=test name=create_History_Table
+ls
+cd db
+ls
+cd migrate/
+ls
+mv 201412091810_create_Hisotry_Table.rb 201412091810_create_hisotry_table.rb 
+rake db:migrate DB=test
+cd ..
+ls
+cd ..
+ls
+rake db:migrate DB=test
+rake db:migrate:up DB=test
+rake db:migrate DB=test
+rake db:migrate:up DB=test
+rake db:migrate:up DB=test VERSION=201412091810
+rake db:migrate:up DB=test VERSION=201412091810 name=create_history_table
+rake db:migrate:up DB=test VERSION=201412091810 name=create_hisotry_table
+rake db:migrate:up DB=test
+rake db:migrate DB=test
+ls
+ls -la
+cd db
+ls -la
+cd migrate
+ls -la
+cd /
+cd~
+cd ~
+ls
+cd RubymineProjects/
+ls
+cd shell_history/
+ls
+rake
+rake db:migrate DB=test
+ls
+cd db
+ls
+cd migrate/
+ls
+mv create_history_table.rb 201409121841_create_history_table.rb
+rake db:migrate DB=test
+history | grep gem
+rvm list
+rake db:migrate:down DB=test
+rake db:migrate:down VERSION=201409121841 DB=test
+rake db:migrate DB=test
+git status -s
+git add. -A
+cd ..
+ls
+cd ..
+ls
+cd ..
+cd shell_history/
+git status -s
+git add . -A
+git status -s
+git commit -m "added migration"
+git push origin master
+git status -s
+git fetch
+git reset --hard origin/master
+git status -s
+git pull origin/master
+git pull origin master
+git status -s
+git reset --hard origin master
+git reset --hard origin/master

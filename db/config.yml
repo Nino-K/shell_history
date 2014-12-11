@@ -19,3 +19,8 @@ production:
   timeout: 5000
   username: root
   password: Password1
+adaptersettings:
+  database: ShellHistory
+  username: root
+  password: Password1
+  server: localhost
