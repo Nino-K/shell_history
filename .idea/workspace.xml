@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3d4bfa0-2d3e-4daa-bbaf-849e0b9ef95f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/adapter_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/history_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/history.rb" afterPath="$PROJECT_DIR$/services/history.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/history.txt" afterPath="$PROJECT_DIR$/src/history.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c3d4bfa0-2d3e-4daa-bbaf-849e0b9ef95f" name="Default" comment="" />
     <ignored path="shell_history.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
