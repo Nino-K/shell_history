@@ -15,16 +15,6 @@ class AdapterTest < Test::Unit::TestCase
     @Adapter = Adapter.new(@server,@username, @password, @db)
   end
 
-  def test_Simple
-    @Adapter.connect
-    data = @Adapter.exec_query("select * from history;")
-
-    data.each_hash do |row|
-      puts row
-    end
-
-  end
-
   def teardown
 
   end
