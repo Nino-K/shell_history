@@ -11,3 +11,5 @@ gem 'standalone_migrations', '~> 2.1.5'
 gem 'test-unit', '~> 3.0.7'
 gem 'test-unit-full', '~> 0.0.3'
 gem 'mocha', :require => false
+gem 'rspec', '~> 3.1.0'
+gem 'simplecov', '~> 0.9.1'

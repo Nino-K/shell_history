@@ -1,4 +1,5 @@
 #! /bin/bash -ex
+# RAKE SCRIPT
 # this script should get executed while the rake task is running to create
 # the necessary file/folder structure
 # you should ONLY call this script from rake task bash:int

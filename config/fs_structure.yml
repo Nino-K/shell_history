@@ -1,0 +1,3 @@
+serviceSettings:
+  tartgetPath: shell_history_src
+  targetFile: history.txt

@@ -12,6 +12,11 @@ die () {
 
 
 # change this path to the designated path after installation
+
+cd /home/nino/RubymineProjects/shell_history
+
+ruby log_out.rb
+
 cd "$1"
 
 git add . -A
