@@ -26,6 +26,7 @@ $ bundler install
 $ rake fs:create[https://github.com/nino2armando/shell_history_src.git]
 ```
 add ```shell_history/scripts/login_script.sh``` to /init/rc.local
+
 add ```shell_history/scripts/logout_script.sh``` to /init/rc6.d
 
 todo
