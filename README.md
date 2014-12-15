@@ -25,12 +25,12 @@ $ bundler install
 
 $ rake fs:create[https://github.com/nino2armando/shell_history_src.git]
 ```
-add ```shell_history/scripts/login_script.sh``` to /init/rc.local
-
-add ```shell_history/scripts/logout_script.sh``` to /init/rc6.d
+The rake task above creates upstart task in /etc/init/ called shellhistory.conf
+Note: the original task is located in /upstart/ folder
 
 todo
 ------------
+I need to remove all the hard coded paths in script files...maybe create enviroment variables isntead
 back up user changes and tons of testing...
 
 
