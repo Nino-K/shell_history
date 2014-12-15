@@ -10,6 +10,9 @@ namespace :fs do
 
       #call the git scripts here to init
       Rake.application.invoke_task("bash:init[#{arg[:repo]}]")
+
+      # create upstart task
+      Rake.application.invoke_task("upstart:create")
     else
       puts "you must pass the git rpo e.g rake fs:create[http://myrepo]"
     end

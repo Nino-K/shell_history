@@ -1,4 +1,4 @@
-#! /bin/bash -ex
+#! /bin/sh -ex
 # this script should get executed upon user logout to commit the
 # latest changes in ~/shell_history_src
 # 1 => target path

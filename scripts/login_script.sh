@@ -1,4 +1,4 @@
-#! /bin/bash -ex
+#! /bin/sh -ex
 # this script should get executed upon user logout to commit the
 # latest changes in ~/shell_history_src
 # 1 => target path
@@ -17,5 +17,8 @@ cd "$1"
 git fetch
 
 git reset --hard origin/master
+
+
+cat /home/nino/shell_history_src/history.txt >> /home/nino/.bash_history
 
 
